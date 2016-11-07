@@ -17,7 +17,7 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
 
 assets: http://zx247549135.github.io/assets
-#baseurl: http://sunxiaobiu.github.io
+baseurl: http://zx247549135.github.io
 
 # pagination
 paginate: 10
@@ -129,7 +129,7 @@ google_analytics:
 ## You MUST upgrade to Universal Analytics first!
 ## https://developers.google.com/analytics/devguides/collection/upgrade/?hl=zh_CN
 baidu_tongji:
-  enable: true
+  enable: false
   sitecode: 7578feb1a00553f099171e7b2560ae78 ## e.g. e6d1f421bbc9962127a50488f9ed37d1 your baidu tongji site code
 cnzz_tongji:
   enable: false

@@ -3,7 +3,7 @@ title: 来一只熊掌
 email: zx247549135@gmail.com
 description: Source of me.
 localurl: "" # the subpath of your site, e.g. /blog/
-#url: http://sunxiaobiu.github.io # the base hostname & protocol for your site
+url: http://zx247549135.github.io # the base hostname & protocol for your site
 me-img: "/img/HeadPicture.png"
 
 twitter_username:
@@ -14,7 +14,7 @@ github_username: zx247549135
 permalink: /:categories/:year/:month/:day/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-highlighter: rouge
+highlighter: pygments
 
 assets: http://zx247549135.github.io/assets
 baseurl: http://zx247549135.github.io
@@ -123,7 +123,7 @@ disqus_shortname:    ## e.g. wuchong   your disqus short name.
 
 #### Analytics
 google_analytics:
-  enable: false
+  enable: true
   id:        ## e.g. UA-46321946-2 your google analytics ID.
   site:      ## e.g. wuchong.me your google analytics site or set the value as auto.
 ## You MUST upgrade to Universal Analytics first!
@@ -161,4 +161,3 @@ tinysou_search:     ## http://tinysou.com/
 
 gems:
  - jemoji
- - jekyll-paginate

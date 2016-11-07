@@ -23,7 +23,7 @@ baseurl: http://zx247549135.github.io
 paginate: 10
 
 # Markdown Processors
-markdown: kramdown
+markdown: redcarpet
 redcarpet:
   extensions:
     - hard_wrap

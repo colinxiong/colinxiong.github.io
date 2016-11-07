@@ -14,7 +14,7 @@ github_username: zx247549135
 permalink: /:categories/:year/:month/:day/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-highlighter: pygments
+highlighter: rouge
 
 assets: http://zx247549135.github.io/assets
 baseurl: http://zx247549135.github.io

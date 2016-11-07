@@ -3,7 +3,7 @@ title: 来一只熊掌
 email: zx247549135@gmail.com
 description: Source of me.
 localurl: "" # the subpath of your site, e.g. /blog/
-url: http://zx247549135.github.io # the base hostname & protocol for your site
+url: https://zx247549135.github.io # the base hostname & protocol for your site
 me-img: "/img/HeadPicture.png"
 
 twitter_username:
@@ -16,8 +16,8 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
 
-assets: http://zx247549135.github.io/assets
-baseurl: http://zx247549135.github.io
+assets: https://zx247549135.github.io/assets
+baseurl: https://zx247549135.github.io
 
 # pagination
 paginate: 10
@@ -107,7 +107,7 @@ toc:
 
 #### Links
 links:
-  tcOops's Blog: http://spacenx.pw/
+  tcOops's Blog: https://spacenx.pw/
 
 excerpt_separator: <!--more-->
 
@@ -123,13 +123,13 @@ disqus_shortname:    ## e.g. wuchong   your disqus short name.
 
 #### Analytics
 google_analytics:
-  enable: true
+  enable: false
   id:        ## e.g. UA-46321946-2 your google analytics ID.
   site:      ## e.g. wuchong.me your google analytics site or set the value as auto.
 ## You MUST upgrade to Universal Analytics first!
 ## https://developers.google.com/analytics/devguides/collection/upgrade/?hl=zh_CN
 baidu_tongji:
-  enable: false
+  enable: true
   sitecode: 7578feb1a00553f099171e7b2560ae78 ## e.g. e6d1f421bbc9962127a50488f9ed37d1 your baidu tongji site code
 cnzz_tongji:
   enable: false

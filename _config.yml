@@ -3,11 +3,11 @@ title: 来一只熊掌
 email: zx247549135@gmail.com
 description: Source of me.
 localurl: "" # the subpath of your site, e.g. /blog/
-url: https://zx247549135.github.io # the base hostname & protocol for your site
+url: https://colinxiong.github.io # the base hostname & protocol for your site
 me-img: "/img/HeadPicture.png"
 
 twitter_username:
-github_username: zx247549135
+github_username: colinxiong
 
 # This is the default format.
 # For more see: http://jekyllrb.com/docs/permalinks/
@@ -16,8 +16,8 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
 
-assets: https://zx247549135.github.io/assets
-baseurl: https://zx247549135.github.io
+assets: https://colinxiong.github.io/assets
+baseurl: https://colinxiong.github.io
 
 # pagination
 paginate: 10
@@ -82,7 +82,7 @@ mathjax: false      #enable mathjax if true
 #### Author information
 author:
   name: Zhang Xiong      ## e.g. wuchong Author name
-  intro_line1:  "Hello ,I'm Zhang Xiong."    ## your introduction on the bottom of the page
+  intro_line1:  "Hello ,I'm Zhang Xiong / Colin."    ## your introduction on the bottom of the page
   intro_line2:  "Give me your hands."  ## the 2nd line
   weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   weibo_verifier:  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.

@@ -119,7 +119,7 @@ aggregator操作分为两种，即前文V的size是否可变。为了实现初�
 
  做排序时需要按照UnsafeShuffleWriter的方法写一个pointer指针。
 
- ### 读取操作
+### 读取操作
 
  写完后read是返回的一个迭代器，因此需要定义Unsafe上的KV读取方法。
 

@@ -41,7 +41,7 @@ excerpt: 为了评估GPU系统的性能，通过机器学习的决策树思想�
 
 信息熵是用来表明当前信息的不确定性的，信息熵越小，确定性越高。如何计算信息熵？实际上就是label的期望值：假设有N个样本，M个label值，第i个label值出现的概率为p_i，那么当前的信息熵即
 
-![image](https://github.com/colinxiong/colinxiong.github.io/tree/master/img/entropy.png)
+![image](https://github.com/colinxiong/colinxiong.github.io/blob/master/img/entropy.png)
 
 ## 2、数据集的划分
 
@@ -59,7 +59,7 @@ excerpt: 为了评估GPU系统的性能，通过机器学习的决策树思想�
 
 + 当前特征项的信息熵为所有子集的信息熵的期望值
 
-![image](https://github.com/colinxiong/colinxiong.github.io/tree/master/img/entropy2.png)
+![image](https://github.com/colinxiong/colinxiong.github.io/blob/master/img/entropy.png)
 
 ## 3、最大信息增益
 
